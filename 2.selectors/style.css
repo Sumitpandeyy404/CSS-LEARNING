@@ -1,0 +1,15 @@
+*{font-size: 25px;font-family: cursive;
+background-color: rgb(0, 0, 0);}
+#first{ font-family:cursive;
+color: darkmagenta;}
+
+#second{
+    color: darkblue;
+    font-family: fantasy;}
+
+#third{font-family: cursive;}
+
+
+ .purple{ color: blueviolet;}   
+
+ .highlight{background-color: crimson;}
