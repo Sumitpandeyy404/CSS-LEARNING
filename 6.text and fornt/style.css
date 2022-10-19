@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap'); 
+body{font-family:Arial;}
+h1{ text-align: center;
+text-shadow: 0 0 3px #ff0000;;}
+a{text-decoration:underline;
+text-decoration-color: red;
+text-decoration-style: wavy;}
+p{text-transform: capitalize;
+ text-indent: 50px;
+ letter-spacing: 1px;
+ line-height: 1.3;
+ font-family:'Righteous';
+}
