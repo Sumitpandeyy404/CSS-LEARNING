@@ -1,0 +1,14 @@
+.container{
+
+border: 2px solid;
+}
+
+
+.img1{float:right;
+margin-left:50px;}
+
+.img2{float:left;}
+.p1{border: 2px solid green;
+clear:right;}
+
+.p2{clear:both;}
